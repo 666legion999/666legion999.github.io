@@ -12,7 +12,6 @@ body{
 	background-color: #ffffff;
         overflow-x: hidden;
     overflow-y: scroll; 
-	width: 1920px;
 }
 .containertop{
 	background-image: url(images/2.jpg);
